@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1744732589.36024 "/Users/akhilshettym/Desktop/DEV/Resume/version 4/resume.tex" "resume.pdf" "resume" 1744732590.03832 0
-  "/Users/akhilshettym/Desktop/DEV/Resume/version 4/resume.tex" 1744732589.11469 6520 88187d50f2ac8ac7013f83c9f60779e9 ""
+["pdflatex"] 1744732815.42355 "/Users/akhilshettym/Desktop/DEV/Resume/version 4/resume.tex" "resume.pdf" "resume" 1744732816.16707 0
+  "/Users/akhilshettym/Desktop/DEV/Resume/version 4/resume.tex" 1744732815.23581 6490 98cac1134a336a59f91a6d033561b7a4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1741388039 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -66,10 +66,10 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
-  "resume.aux" 1744732589.98818 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "resume.aux" 1744732816.11775 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
   "resume.cls" 1744106453.07049 4927 92e10cbe59098b8f85a83e4a0b2a3034 ""
-  "resume.out" 1744732589.68275 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1744732589.11469 6520 88187d50f2ac8ac7013f83c9f60779e9 ""
+  "resume.out" 1744732815.90896 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1744732815.23581 6490 98cac1134a336a59f91a6d033561b7a4 ""
   (generated)
   "resume.aux"
   "resume.log"
